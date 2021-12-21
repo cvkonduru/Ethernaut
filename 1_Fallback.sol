@@ -1,5 +1,5 @@
 /*
-To bear this level 
+To beat this level 
 
 We need to claim ownership of the contract
 Reduce the contract's balance to 0.
